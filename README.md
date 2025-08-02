@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 你好，我是 tbphp (T佬)
+# 👋 你好，我是 tbphp
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+工程师;Go+%7C+Python+%7C+PHP+开发者;AI+爱好者+%26+电影迷" alt="Typing SVG" />
 
