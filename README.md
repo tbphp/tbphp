@@ -44,6 +44,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangb7420@gmail.com)
 [![Linux.do](https://img.shields.io/badge/-Linux.do-1A202C?style=for-the-badge&logoColor=white)](https://linux.do/u/tbphp)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+GHpy5SwEllg3MTUx)
 
 </div>
 
