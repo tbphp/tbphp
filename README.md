@@ -10,7 +10,9 @@
 
 <div align="center">
 
-🔧 **DevOps 工程师** 📍 **中国成都** 🇨🇳  
+![tbphp's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbphp)
+
+🔧 **DevOps 工程师**  
 🤖 热衷于 **AI** 技术和自动化  
 🎬 业余时间喜欢看电影  
 💻 喜欢构建让生活更便利的工具
@@ -34,7 +36,7 @@
 
 <div align="center">
 
-[![GPT-Load](https://github-readme-stats.vercel.app/api/pin/?username=tbphp&repo=gpt-load&theme=tokyonight)](https://github.com/tbphp/gpt-load)
+[![GPT-Load](https://github-readme-stats.vercel.app/api/pin?username=tbphp&repo=gpt-load)](https://github.com/tbphp/gpt-load)
 
 </div>
 
